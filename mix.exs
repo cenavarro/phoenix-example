@@ -59,7 +59,7 @@ defmodule PhoenixExample.MixProject do
       {:jason, "~> 1.2"},
       {:dns_cluster, "~> 0.1.1"},
       {:bandit, "~> 1.2"},
-      {:moesif_api, "~> 0.1.0"}
+      {:moesif_api, "~> 0.2.0"}
     ]
   end
 
